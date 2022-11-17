@@ -3,11 +3,12 @@ body{
     margin:0px;
     padding: 0px;
     min-width: 582px;
+    position: relative;
 }
 h1{
-    color: rgb(170, 73, 170);
+    /* color: rgb(170, 73, 170); */
     letter-spacing: 20px;
-    text-decoration: underline;
+    /* text-decoration: underline; */
     text-align: center;
 
 }
@@ -22,6 +23,7 @@ font-weight: bold;
 
 .song{
     text-align: center;
+ font-size: medium; 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
